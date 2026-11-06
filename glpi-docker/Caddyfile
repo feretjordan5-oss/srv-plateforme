@@ -1,0 +1,9 @@
+glpi.jordan.lab-cesi.fr {
+    reverse_proxy glpi:80
+}
+ntfy.jordan.lab-cesi.fr {
+    reverse_proxy ntfy:80
+}
+status.jordan.lab-cesi.fr {
+    reverse_proxy uptime-kuma:3001
+}

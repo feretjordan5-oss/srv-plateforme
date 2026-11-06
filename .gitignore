@@ -1,0 +1,4 @@
+glpi-docker/.env
+glpi-docker/data
+glpi-docker/caddy_data
+glpi-docker/caddy_config
